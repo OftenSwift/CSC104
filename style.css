@@ -1,0 +1,27 @@
+body{
+	background-color: rgb(149, 251, 255);
+	font-size: medium;
+	cursor: crosshair;
+	color: #ffffff;
+	text-shadow:0 0 2px rgb(255, 255, 255);
+	font-family: times new roman, arial;
+	animation: cubic-bezier(0.075, 0.82, 0.165, 1);
+}
+
+h1{
+	color:darkorchid
+
+}
+
+h2{
+	color:darkorchid
+}
+
+h3{
+	color:darkorchid
+}
+
+p{
+	color:darkorchid
+}
+
